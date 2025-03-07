@@ -64,7 +64,7 @@ The project uses the TMDB 5000 Movie Dataset, which includes:
 ### Setup Instructions
 1. Clone the repository:
    ```
-   git clone https://github.com/jain-atishay/movie-recommender.git
+   git clone https://github.com/jain-atishay/Recommender-System--Movie-Recommendation-Cosine-Similarity
    cd movie-recommender
    ```
 
